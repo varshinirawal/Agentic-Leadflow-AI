@@ -1,0 +1,16 @@
+{
+   "basic": {
+      "price": 29,
+      "videos per month": 10,
+      "resolution": 720
+   },
+   "pro": {
+      "price": 79,
+      "videos per month": "unlimited",
+      "resolution": "4K"
+   },
+   "policies": {
+      "refund": "No refunds after 7 days",
+      "support": "24/7 support available only on Pro plan"
+   }
+}
