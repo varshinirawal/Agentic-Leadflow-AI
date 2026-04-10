@@ -84,7 +84,7 @@ This represents how real systems send data to CRM or databases.
 
 
 User: hey  
-Bot: Hi! Ready to create amazing videos? 🚀
+Bot: Hi! Ready to create amazing videos? 
 
 User: tell me price  
 Bot: We offer Basic ($29/month) and Pro ($79/month)...
@@ -98,7 +98,7 @@ Bot: What's your email?
 User: varshu@gmail.com  
 User: YouTube  
 
-Bot: Lead captured successfully 🎉
+Bot: Lead captured successfully 
 
 
 
