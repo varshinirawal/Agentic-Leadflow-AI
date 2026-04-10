@@ -1,6 +1,6 @@
-# 🤖 Social-to-Lead Conversational AI Bot
+# Social-to-Lead Conversational AI Bot
 
-## 📌 Project Overview
+##  Project Overview
 This project is a simple conversational AI chatbot that simulates a **social-to-lead workflow system** for a fictional video SaaS platform.
 
 The bot can:
@@ -15,7 +15,7 @@ The system is built using Python with rule-based intent detection and a simple r
 
 ---
 
-## ⚙️ Features
+##  Features
 
 ### 1. Intent Detection
 The bot identifies user intent using keyword-based matching:
@@ -51,7 +51,7 @@ This represents how real systems send data to CRM or databases.
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 - Python 3
 - JSON (data storage)
 - Rule-based NLP (keyword intent detection)
@@ -59,11 +59,11 @@ This represents how real systems send data to CRM or databases.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ---
 
-## 🔄 Conversation Flow
+##  Conversation Flow
 
 1. User starts conversation  
 2. Bot detects intent:
@@ -101,41 +101,10 @@ User: YouTube
 Bot: Lead captured successfully 🎉
 
 
----
 
-## 🚀 Improvements / Future Scope
-- Replace keyword matching with NLP model (spaCy / Transformers)
-- Integrate real RAG using vector database (FAISS / Pinecone)
-- Add frontend chat UI (Streamlit / React)
-- Connect real CRM API for lead storage
-- Deploy using Flask / FastAPI
-
----
-
-## 🎯 Learning Outcome
-This project demonstrates:
-- Basic conversational AI design
-- Intent detection logic
-- Stateful chatbot behavior
-- Simple retrieval-based response system
-- Lead generation workflow simulation
-
----
-
-## 👩‍💻 Author
+##  Author
 Varshini Rawal  
 MCA Student | Data Science & AI Enthusiast
 
 
 
-
-# 🚀 If you want next upgrade
-
-I can help you make this even stronger by adding:
-
-👉 Streamlit UI (VERY impressive for submission)  
-👉 or real RAG using embeddings (FAISS)  
-👉 or convert into GenAI chatbot using OpenAI API style structure  
-
-Just say:
-**“upgrade this to pro level”** 😼
